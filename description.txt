@@ -1,0 +1,11 @@
+this file present how to work with github & git "git bash" :
+using images and description & command.
+
+•	Git: publish a project
+•	Git: push
+•	Git: pull
+•	Git: clone project
+•	Git: fork project
+•	Git remove specific fishier from git.
+•	Get histories 
+•	status of the project: 
